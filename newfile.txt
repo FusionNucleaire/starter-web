@@ -1,11 +1,14 @@
 404.html
 apple-touch-icon-precomposed.png
 crossdomain.xml
+css/
 favicon.ico
+fonts/
 hipster.txt
 humans.txt
 index.html
+js/
+newfile.txt
 README.md
 robots.txt
 simple.html
-And another line
