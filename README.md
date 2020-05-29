@@ -18,3 +18,5 @@ blabla
 ni!
 
 and again
+
+Copyright
