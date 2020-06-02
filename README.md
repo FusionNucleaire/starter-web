@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 
 blabla
 
-ni!
+ni! Holy Grail reference
 
 and again
 please fork
